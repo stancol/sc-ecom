@@ -2,4 +2,3 @@
 
 1. images
 2. other standalone libraries(no npm support)
-3. Testing Update
